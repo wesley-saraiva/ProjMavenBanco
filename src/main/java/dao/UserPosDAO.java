@@ -50,7 +50,7 @@ public class UserPosDAO {
         }
     }
 
-    public void salarTelefone(Telefone tel) {
+    public void salvarTelefone(Telefone tel) {
 
         try {
             String sql = "INSERT INTO telefoneuser(numero, tipo, usuariopessoa)"
