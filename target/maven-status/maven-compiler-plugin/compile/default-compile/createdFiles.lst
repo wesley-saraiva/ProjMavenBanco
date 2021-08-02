@@ -1,0 +1,6 @@
+conexaojdbc\SingleConnection.class
+conexaojdbc\TestBanco.class
+model\BeanUserFone.class
+model\Telefone.class
+dao\UserPosDAO.class
+model\UserPosJava.class
